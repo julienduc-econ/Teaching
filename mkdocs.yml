@@ -1,0 +1,5 @@
+site_name: Portail des cours
+theme:
+  name: material
+nav:
+  - Accueil: index.md
